@@ -1,10 +1,5 @@
 ## Hi 👋
-<h1>My skill</h1>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ps" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
 
 <!--
 **kimkijoong7777/kimkijoong7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
