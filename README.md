@@ -1,5 +1,5 @@
 ## Hi 👋
-[![My Skills](https://skillicons.dev/icons?i=ps)](https://skillicons.dev)
+<h1>My skill</h1>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=ps" />
