@@ -1,6 +1,4 @@
 ## Hi 👋
-![My Skills](https://skillicons.dev/icons?i=ps)
-
 
 ### Skills
 
