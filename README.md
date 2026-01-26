@@ -1,6 +1,12 @@
 ## Hi 👋
 ![My Skills](https://skillicons.dev/icons?i=ps)
 
+## ***"Always work hard on something uncomfortably exciting." - Larry Page***
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=ps)
+
 <!--
 **kimkijoong7777/kimkijoong7777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
