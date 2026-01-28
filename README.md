@@ -3,6 +3,7 @@
 ### Skills
 
 ![My Skills](https://skillicons.dev/icons?i=ps)
+![My Skills](https://skillicons.dev/icons?i=ai)
 
 
 
